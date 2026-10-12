@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## 🚀 Train
 
-`cd TAA-main`
+`cd ContinualVTG-TAA-main`
 
 - QVHighlights
 
